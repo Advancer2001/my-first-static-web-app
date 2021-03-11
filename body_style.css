@@ -1,0 +1,21 @@
+﻿body {
+    height: 1080px;
+    width:auto;
+    font-family: Arial, sans-serif;
+    background-image: url("file:///C:/Users/AdvIT/Desktop/ProiectInternet/media/background.jpg");
+    background-position: center center;
+    background-size: 100% 100%; 
+}
+.mainbody {
+    height: 100%;
+    width: auto;
+    background-color: #68020f;
+    background-position: center center;
+    background-size: 50% 100%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-bottom:200px;
+    transition-duration: 0.4s;
+    border-radius: 150px;
+   
+}
