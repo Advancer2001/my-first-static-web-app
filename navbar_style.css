@@ -54,3 +54,6 @@
         background: rgb(68, 68, 68); /* IE */
         background: rgba(0, 0, 0, 0.78); /* NON-IE */
     }
+.dropdown:hover .dropdown-content {
+        display: block;
+      }
